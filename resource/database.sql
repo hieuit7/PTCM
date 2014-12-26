@@ -105,4 +105,4 @@ create table ptcm_user(
 	password varchar(100) not null
 );
 
-insert into ptcm_user values(1,'hieu','1234')
+insert into ptcm_user values(1,'hieu','1234');
